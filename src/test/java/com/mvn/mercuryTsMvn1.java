@@ -30,7 +30,7 @@ public class mercuryTsMvn1 {
   @Test
   public void loginuser1() 
   {
-	   System.out.println("logout 111111111111");
+	   System.out.println("logout 11115555");
 	  driver.findElement(By.xpath("//input[@name='userName']")).sendKeys("Suvidyap1");
 	  driver.findElement(By.xpath("//input[@type='password']")).sendKeys("P@ssword1");
 	  driver.findElement(By.xpath("//input[@name='login']")).click();
